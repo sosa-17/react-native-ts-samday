@@ -1,5 +1,5 @@
 import * as React from 'react';
-import RootStackNavigation from './src/navigation/RootNavigation';
+import RootStackNavigation from '@navigation/RootNavigation';
 
 function App() {
   return <RootStackNavigation />;

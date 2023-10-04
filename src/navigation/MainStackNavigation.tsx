@@ -1,7 +1,7 @@
 import React from 'react';
 import {createStackNavigator} from '@react-navigation/stack';
+import {DetailsScreen, HomeScreen} from '@screens/';
 import {MainStackParams} from './types';
-import {DetailsScreen, HomeScreen} from '../components/screens';
 
 const Stack = createStackNavigator<MainStackParams>();
 
