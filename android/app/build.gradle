@@ -75,7 +75,7 @@ android {
 
     namespace "com.samday"
     defaultConfig {
-        applicationId "com.samday"
+        applicationId "com.sam.samday"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
